@@ -1,2 +1,2 @@
 # HackerRank
-HackerRank.com python solutions
+HackerRank.com solutions
